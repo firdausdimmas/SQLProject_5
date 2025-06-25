@@ -2,6 +2,8 @@
 
 ### Project Overview
 
+![exacm score](https://github.com/user-attachments/assets/942edfd7-2d7f-400a-9f38-7e118f164597)
+
 This project aims to explore the key factors that influence student success by analyzing a comprehensive dataset covering various aspects of student life, including study hours, sleep patterns, attendance, and more. Similar to how a city's transport system must adapt to meet residents' needs, this analysis helps educators and schools better understand how to support student achievement.
 
 By uncovering the relationships between lifestyle habits and exam performance, the project provides actionable insights for students, teachers, and policymakers to make data-driven decisions that can improve academic outcomes and enhance educational strategies.
